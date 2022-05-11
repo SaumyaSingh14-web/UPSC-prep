@@ -5,9 +5,9 @@ function Login() {
   return (
     <div className='text-gray-800 flex'>
 
-        <div className='flex sm:w-1/2 sm:max-h-screen'>
+        {/* <div className='flex sm:w-1/2 sm:max-h-screen'>
             <img src="" alt="" />
-        </div>
+        </div> */}
 
         <div className='text-teal-800 p-8 font-semibold w-1/2'>
 
