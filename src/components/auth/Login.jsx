@@ -1,50 +1,48 @@
-import React, { useState } from 'react';
-import { GoogleLogin, GoogleLogout } from 'react-google-login';
-
-const clientId = "717571065768-cso7ati6hjmd28hv69brkvlqn5de1mo2.apps.googleusercontent.com";
+import React from 'react';
 
 function Login() {
+  return (
+    <div className='text-gray-800'>
 
-    const [showloginButton, setShowloginButton] = useState(true);
-    const [showlogoutButton, setShowlogoutButton] = useState(false);
-    const onLoginSuccess = (res) => {
-        console.log('Login Success:', res.profileObj);
-        setShowloginButton(false);
-        setShowlogoutButton(true);
-    };
-
-    const onLoginFailure = (res) => {
-        console.log('Login Failed:', res);
-    };
-
-    const onLogoutSuccess = () => {
-        alert("You have been logged out successfully");
-        console.clear();
-        setShowloginButton(true);
-        setShowlogoutButton(false);
-    };
-
-    return (
         <div>
-            { showloginButton ?
-                <GoogleLogin
-                    clientId={clientId}
-                    buttonText="Log in with Google "
-                    onSuccess={onLoginSuccess}
-                    onFailure={onLoginFailure}
-                    cookiePolicy={'single_host_origin'}
-                    isLoggedIn={true}
-                /> : null}
-
-            { showlogoutButton ?
-                <GoogleLogout
-                    clientId={clientId}
-                    buttonText="Logout"
-                    onLogoutSuccess={onLogoutSuccess}
-                >
-                </GoogleLogout> : null
-            }
+            <img src="" alt="" />
         </div>
-    );
+
+        <div className='p-10'>
+
+            <div className='font-bold text-2xl p-6'>
+                Login
+            </div>
+
+            <div className='p-2'>
+                First Name :
+                <input type="text" placeholder=' Type here' name='firstName'/>
+            </div>
+
+            <div className='p-2'>
+                Last Name :
+                <input type="text" placeholder=' Type here' name='lastName'/>
+            </div>
+
+            <div className='p-2'>
+                E-mail Address : 
+                <input type="text" placeholder=" Type here" name='email'/>
+            </div>
+
+            <div className='p-2'>
+                Password : 
+                <input type="password" placeholder=" Type here" name='pass'/>
+            </div>
+
+            <div className='bg-teal-600 shadow-sm rounded-full font-bold text-center'>
+                <button>Login</button>
+            </div>
+
+        </div>
+
+    </div>
+
+  );
 }
+
 export default Login;
