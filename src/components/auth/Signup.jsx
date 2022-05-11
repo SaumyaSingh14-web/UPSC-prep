@@ -15,27 +15,27 @@ function Signup() {
                 Sign Up
             </div>
 
-            <div className='p-3 mb-2 rounded-full shadow-lg hover:bg-white'>
+            <div className='p-3 mb-2 rounded-full bg-gray-100 hover:bg-gray-50'>
                 First Name :
-                <input type="text" placeholder=' Type here' name='firstName'/>
+                <input type="text" placeholder=' your first name' name='firstName'/>
             </div>
 
-            <div className='p-3 mb-2 rounded-full shadow-lg hover:bg-white'>
+            <div className='p-3 mb-2 rounded-full bg-gray-100 hover:bg-gray-50'>
                 Last Name :
-                <input type="text" placeholder=' Type here' name='lastName'/>
+                <input type="text" placeholder=' your last name' name='lastName'/>
             </div>
 
-            <div className='p-3 mb-2 rounded-full shadow-lg hover:bg-white'>
-                E-mail Address : 
-                <input type="text" placeholder=" Type here" name='email'/>
+            <div className='p-3 mb-2 rounded-full bg-gray-100 hover:bg-gray-50'>
+                E-mail : 
+                <input type="text" placeholder=" example123@gmail.com" name='email'/>
             </div>
 
-            <div className='p-3 mb-4 rounded-full shadow-lg hover:bg-white'>
+            <div className='p-3 mb-4 rounded-full bg-gray-100 hover:bg-gray-50'>
                 Password : 
-                <input type="password" placeholder=" Type here" name='pass'/>
+                <input type="password" placeholder=" password" name='pass'/>
             </div>
 
-            <div className='bg-teal-600 shadow-lg rounded-full text-center font-bold text-white p-2 mb-2 hover:bg-teal-700' >
+            <div className='bg-teal-600 shadow-lg rounded-full text-center font-bold text-white p-2 mb-2 hover:bg-teal-800' >
                 <button>SIGN UP</button>
             </div>
            
