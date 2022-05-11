@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-function Login() {
+function Signup() {
   return (
     <div className='text-gray-800 flex'>
 
@@ -14,7 +14,17 @@ function Login() {
         <div className='text-teal-800 p-8 font-semibold w-1/2'>
 
             <div className='font-extrabold text-2xl p-6 underline'>
-                Login
+                Sign Up
+            </div>
+
+            <div className='p-3 mb-2 rounded-full shadow-lg hover:bg-white'>
+                First Name :
+                <input type="text" placeholder=' Type here' name='firstName'/>
+            </div>
+
+            <div className='p-3 mb-2 rounded-full shadow-lg hover:bg-white'>
+                Last Name :
+                <input type="text" placeholder=' Type here' name='lastName'/>
             </div>
 
             <div className='p-3 mb-2 rounded-full shadow-lg hover:bg-white'>
@@ -28,7 +38,7 @@ function Login() {
             </div>
 
             <div className='bg-teal-600 shadow-lg rounded-full text-center font-bold text-white p-2 mb-2 hover:bg-teal-700' >
-                <button>LOGIN</button>
+                <button>SIGN UP</button>
             </div>
            
 
@@ -39,4 +49,4 @@ function Login() {
   );
 }
 
-export default Login;
+export default Signup;
