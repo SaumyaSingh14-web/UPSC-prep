@@ -1,9 +1,7 @@
-import React from 'react'
-
-function Title() {
+function Title(props) {
   return (
-    <div>Title</div>
-  )
+        <div className='font-extrabold text-2xl p-6'>{props.title}</div>
+  );
 }
 
-export default Title
+export default Title;

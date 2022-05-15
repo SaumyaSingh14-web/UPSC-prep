@@ -1,44 +1,21 @@
 import React from 'react';
+import Title from './Title';
+import Inputbox from './Inputbox';
+import Button from './Button';
 //import bgimg from '.';
 
 function Signup() {
   return (
-    <div className='text-gray-800 flex'>
+    <div>
 
         {/* <div className='flex sm:w-1/2 sm:max-h-screen'>
             <img src="" alt="" />
         </div> */}
 
-        <div className='text-teal-800 p-8 font-semibold w-1/2'>
-
-            <div className='font-extrabold text-2xl p-6 underline'>
-                Sign Up
-            </div>
-
-            <div className='p-3 mb-2 rounded-full bg-gray-100 hover:bg-gray-50'>
-                First Name :
-                <input type="text" placeholder=' your first name' name='firstName'/>
-            </div>
-
-            <div className='p-3 mb-2 rounded-full bg-gray-100 hover:bg-gray-50'>
-                Last Name :
-                <input type="text" placeholder=' your last name' name='lastName'/>
-            </div>
-
-            <div className='p-3 mb-2 rounded-full bg-gray-100 hover:bg-gray-50'>
-                E-mail : 
-                <input type="text" placeholder=" example123@gmail.com" name='email'/>
-            </div>
-
-            <div className='p-3 mb-4 rounded-full bg-gray-100 hover:bg-gray-50'>
-                Password : 
-                <input type="password" placeholder=" password" name='pass'/>
-            </div>
-
-            <div className='bg-teal-600 shadow-lg rounded-full text-center font-bold text-white p-2 mb-2 hover:bg-teal-800' >
-                <button>SIGN UP</button>
-            </div>
-           
+        <div className='text-center text-gray-900 m-2 sm:m-25'>
+            <Title title = "Sign Up"/>
+            <Inputbox inputBox = "First Name"/>
+            <Button btn = "Sign Up"/>
 
         </div>
 
