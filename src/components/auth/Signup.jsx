@@ -14,7 +14,7 @@ function Signup() {
 
         <div className='text-center text-gray-900 m-2 sm:m-25'>
             <Title title = "Sign Up"/>
-            <Inputbox inputBox = "First Name"/>
+            <Inputbox inputBox/>
             <Button btn = "Sign Up"/>
 
         </div>
