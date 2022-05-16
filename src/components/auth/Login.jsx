@@ -19,7 +19,7 @@ function Login(props) {
         placeholder="Enter your password"
         name="password"
       />
-      <Button btn="Sign In" className="max-w-max" />
+      <Button btn="Login" className="max-w-max" />
     </div>
   );
 }
