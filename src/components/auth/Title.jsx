@@ -1,6 +1,8 @@
 function Title(props) {
   return (
-        <div className='font-extrabold text-2xl p-6'>{props.title}</div>
+    <div className="font-extrabold underline text-3xl p-6 uppercase">
+      {props.title}
+    </div>
   );
 }
 
