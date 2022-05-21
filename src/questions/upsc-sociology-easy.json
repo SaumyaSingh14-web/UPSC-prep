@@ -78,6 +78,15 @@
         "c" : "Religious grouping",
         "d" : "Jajmani system",
         "answer" : "a"
+    },
+
+    {
+        "question" : "Who can be labelled as a historical sociologist?",
+        "a" : "Pareto",
+        "b" : "Karl Marx",
+        "c" : "Max Weber",
+        "d" : "Lewis Coscer",
+        "answer" : "c"
     }
 
 
