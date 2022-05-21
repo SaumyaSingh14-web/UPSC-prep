@@ -1,4 +1,4 @@
-import testLogo from "../../images/test-logo.jpg";
+import testLogo from "../images/test-logo.jpg";
 import { BiRightArrow } from "react-icons/bi";
 import { AiOutlinePlayCircle } from "react-icons/ai";
 

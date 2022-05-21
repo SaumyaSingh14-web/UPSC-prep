@@ -1,0 +1,94 @@
+[
+    
+    {
+        "question" : "At which among the following places, National Flag was hoisted for the First time in India.?",
+        "a" : "Lucknow",
+        "b" : "Nagpur",
+        "c" : "Kolkata",
+        "d" : "Delhi",
+        "answer" : "c"
+    },
+
+    {
+        "question" : "Which among the following was the most important reason behind the increased debt burden in India in the last 100 years of the British Rule?",
+        "a" : "Introduction of Guaranteed Railways",
+        "b" : "Introduction of Industries",
+        "c" : "British Capital Investment",
+        "d" : "Unjust Fiscal policies",
+        "answer" : "b"
+    },    
+    
+    {
+        "question" : "Which among the following was the apex court in of India during the British Era?",
+        "a" : "Federal Court",
+        "b" : "Presidency Supreme Court",
+        "c" : "Privy Council",
+        "d" : "Supreme Court of England",
+        "answer" : "c"
+    },    
+    
+    {
+        "question" : "Arrange the Nationalist Congress Party, Rashtriya Janata Dal, Bahujan Samaj Party, Samajwadi Party in chronological order of the years they were founded:",
+        "a" : "Nationalist Congress Party, Rashtriya Janata Dal, Bahujan Samaj Party, Samajwadi Party",
+        "b" : "Bahujan Samaj Party, Samajwadi Party, Rastriya Janta Dal, Nationalist Congress Party",
+        "c" : "Bahujan Samaj Party, Samajwadi Party, Nationalist Congress Party,Rastriya Janta Dal,",
+        "d" : "Bahujan Samaj Party, Nationalist Congress Party, Rastriya Janta Dal, Samajwadi Party",
+        "answer" : "b"
+    },
+
+    {
+        "question" : "Who among the following presided the first session of Indian National Congress 1885?",
+        "a" : "W C Bannerjee",
+        "b" : "Dadabhai Naoroji",
+        "c" : "Badrudddin Taiyabji",
+        "d" : "George Yule",
+        "answer" : "a"
+    },
+
+    {
+        "question" : "Which among the following is Not true about C. Rajagopalachari?",
+        "a" : "He served as Last Governor-General of India",
+        "b" : "He served as the Premier of the Bombay Presidency",
+        "c" : "He founded swatantra party",
+        "d" : " All are correct",
+        "answer" : "b"
+    },    
+    
+    {
+        "question" : "Plassey, which is famous for the Battle of Plassey, is located in which among the following current states of India?",
+        "a" : "West Bengal",
+        "b" : "Bihar",
+        "c" : "Chhattisgarh",
+        "d" : "Jharkhand",
+        "answer" : "a"
+    },    
+    
+    {
+        "question" : "In which among the following years, Bombay transferred to the East India Company by Charles II ?",
+        "a" : "1662 A.D",
+        "b" : "1664 A.D",
+        "c" : "1666 A.D",
+        "d" : "1668 A.D",
+        "answer" : "d"
+    },
+
+    {
+        "question" : "At which among the following places, the modern armory was established by Hyder Ali?",
+        "a" : "Mysore",
+        "b" : "Dindigul",
+        "c" : "Dharmapuri",
+        "d" : "Hosur",
+        "answer" : "b"
+    },
+
+    {
+        "question" : "Who among the following was Viceroy of India at the time of partition of Bengal (1905)?",
+        "a" : "Lord minto",
+        "b" : "Lord curzon",
+        "c" : "Lord Elgin",
+        "d" : "Lord Chelmsford",
+        "answer" : "b"
+    }     
+    
+    
+]
