@@ -1,0 +1,385 @@
+[
+    {
+        "title": "Geography",
+        "summary": "asljdadls fkjas dfklj asdfj asdl;fkjas lk;dfjsda;lfj sad;lf",
+        "quiz": [
+            {
+                "question" : "Which of the following countries is not larger than India in terms of geographical area?",
+                "a" : "Australia",
+                "b" : "Brazil",
+                "c" : "Canada",
+                "d" : "Indonesia",
+                "answer" : "d"
+            },
+        
+            {
+                "question" : "What is the Length of Coast line of India including the cost line of Andaman and Nicobar Island?",
+                "a" : "5517 km",
+                "b" : "7517 km",
+                "c" : "6518 km",
+                "d" : "7218 km",
+                "answer" : "b"
+            },    
+            
+            {
+                "question" : "Which among the following state of India is best known for Saffron Cultivation?",
+                "a" : "Sikkim",
+                "b" : "Assam",
+                "c" : "Jammu & Kashmir",
+                "d" : "Meghalaya",
+                "answer" : "c"
+            },    
+            
+            {
+                "question" : "In which city of India, 90% of world’s small diamonds processed?",
+                "a" : "Baroda",
+                "b" : "Mumbai",
+                "c" : "Surat",
+                "d" : "Jaipur",
+                "answer" : "c"
+            },
+        
+            {
+                "question" : "Which among the following is not correctly matched?",
+                "a" : "Ramakrishna Mission Beach /– Andhra Pradesh",
+                "b" : "Chandipur Beach /– Orissa",
+                "c" : "Golden Beach /– Tamil nadu",
+                "d" : "Marari Beach /– Goa",
+                "answer" : "d"
+            },
+        
+            {
+                "question" : "Port Pipavav, which is the first private sector port in India, is located in which of the following states?",
+                "a" : "West Bengal",
+                "b" : "Maharashtra",
+                "c" : "Gujarat",
+                "d" : "Andhra Pradesh",
+                "answer" : "c"
+            },    
+            
+            {
+                "question" : "The Jhamarkotra mines of Rajasthan are best known for which among the following minerals?",
+                "a" : "Mica",
+                "b" : "Zinc",
+                "c" : "Rock Phosphate",
+                "d" : "Lime Stone",
+                "answer" : "c"
+            },    
+            
+            {
+                "question" : "Jarawas and Sentinelese tribes are found in which among the following state / Union Territory of India?",
+                "a" : "Andaman & Nicobar Islands",
+                "b" : "Madhya Pradesh",
+                "c" : "Lakshadweep",
+                "d" : "Arunachal Pradesh",
+                "answer" : "a"
+            },
+        
+            {
+                "question" : "Arrange the following cities of India from west to east: 1.Bilaspur, 2.Ranchi, 3.Bhopal, 4.Jodhpur",
+                "a" : "4, 1, 2, 3",
+                "b" : "4, 3, 1, 2",
+                "c" : "3, 1, 2, 4",
+                "d" : "3, 4, 1, 2",
+                "answer" : "b"
+            },
+        
+            {
+                "question" : "The evolution of the peninsular region is considered as the resultant of which of the following?",
+                "a" : "Geosyncline Evolution",
+                "b" : "Cenozoic folding",
+                "c" : "Platform Evolution",
+                "d" : "None of the above",
+                "answer" : "c"
+            }
+        
+        
+        ]
+    },
+    {
+        "title": "History",
+        "summary": "asljdadls fkjas dfklj asdfj asdl;fkjas lk;dfjsda;lfj sad;lf",
+        "quiz": [
+    
+            {
+                "question" : "At which among the following places, National Flag was hoisted for the First time in India.?",
+                "a" : "Lucknow",
+                "b" : "Nagpur",
+                "c" : "Kolkata",
+                "d" : "Delhi",
+                "answer" : "c"
+            },
+        
+            {
+                "question" : "Which among the following was the most important reason behind the increased debt burden in India in the last 100 years of the British Rule?",
+                "a" : "Introduction of Guaranteed Railways",
+                "b" : "Introduction of Industries",
+                "c" : "British Capital Investment",
+                "d" : "Unjust Fiscal policies",
+                "answer" : "b"
+            },    
+            
+            {
+                "question" : "Which among the following was the apex court in of India during the British Era?",
+                "a" : "Federal Court",
+                "b" : "Presidency Supreme Court",
+                "c" : "Privy Council",
+                "d" : "Supreme Court of England",
+                "answer" : "c"
+            },    
+            
+            {
+                "question" : "Arrange the Nationalist Congress Party, Rashtriya Janata Dal, Bahujan Samaj Party, Samajwadi Party in chronological order of the years they were founded:",
+                "a" : "Nationalist Congress Party, Rashtriya Janata Dal, Bahujan Samaj Party, Samajwadi Party",
+                "b" : "Bahujan Samaj Party, Samajwadi Party, Rastriya Janta Dal, Nationalist Congress Party",
+                "c" : "Bahujan Samaj Party, Samajwadi Party, Nationalist Congress Party,Rastriya Janta Dal,",
+                "d" : "Bahujan Samaj Party, Nationalist Congress Party, Rastriya Janta Dal, Samajwadi Party",
+                "answer" : "b"
+            },
+        
+            {
+                "question" : "Who among the following presided the first session of Indian National Congress 1885?",
+                "a" : "W C Bannerjee",
+                "b" : "Dadabhai Naoroji",
+                "c" : "Badrudddin Taiyabji",
+                "d" : "George Yule",
+                "answer" : "a"
+            },
+        
+            {
+                "question" : "Which among the following is Not true about C. Rajagopalachari?",
+                "a" : "He served as Last Governor-General of India",
+                "b" : "He served as the Premier of the Bombay Presidency",
+                "c" : "He founded swatantra party",
+                "d" : " All are correct",
+                "answer" : "b"
+            },    
+            
+            {
+                "question" : "Plassey, which is famous for the Battle of Plassey, is located in which among the following current states of India?",
+                "a" : "West Bengal",
+                "b" : "Bihar",
+                "c" : "Chhattisgarh",
+                "d" : "Jharkhand",
+                "answer" : "a"
+            },    
+            
+            {
+                "question" : "In which among the following years, Bombay transferred to the East India Company by Charles II ?",
+                "a" : "1662 A.D",
+                "b" : "1664 A.D",
+                "c" : "1666 A.D",
+                "d" : "1668 A.D",
+                "answer" : "d"
+            },
+        
+            {
+                "question" : "At which among the following places, the modern armory was established by Hyder Ali?",
+                "a" : "Mysore",
+                "b" : "Dindigul",
+                "c" : "Dharmapuri",
+                "d" : "Hosur",
+                "answer" : "b"
+            },
+        
+            {
+                "question" : "Who among the following was Viceroy of India at the time of partition of Bengal (1905)?",
+                "a" : "Lord minto",
+                "b" : "Lord curzon",
+                "c" : "Lord Elgin",
+                "d" : "Lord Chelmsford",
+                "answer" : "b"
+            }        
+        ]
+    },
+    {
+        "title": "Sociology",
+        "summary": "asljdadls fkjas dfklj asdfj asdl;fkjas lk;dfjsda;lfj sad;lf",
+        "quiz": [
+            {
+                "question" : "The Servants of India Society was initiated in –",
+                "a" : "1910",
+                "b" : "1905",
+                "c" : "1915",
+                "d" : "1907",
+                "answer" : "b"
+            },
+        
+            {
+                "question" : "Some social change occurs without being noticed by most members of a society is known as –",
+                "a" : "Manifest change",
+                "b" : "Latent change",
+                "c" : "Relative change",
+                "d" : "Absolute change",
+                "answer" : "b"
+            },    
+            
+            {
+                "question" : "‘Fertility varies inversely with the density of population’ whose view is this?",
+                "a" : "Malthus",
+                "b" : "Durkheim",
+                "c" : "Saddler",
+                "d" : " Castro",
+                "answer" : "c"
+            },    
+            
+            {
+                "question" : "Which one of the following is NOT the feature of tribal religion?",
+                "a" : "magic plays big role in it",
+                "b" : "people have a full faith in supernatural power",
+                "c" : "there is no faith in animism",
+                "d" : "people have faith in animatism",
+                "answer" : "c"
+            },
+        
+            {
+                "question" : "Among the Bhil and Toda tribes common type of marriage is:",
+                "a" : "endogamy",
+                "b" : "exogamy",
+                "c" : "both endogamy and exogamy",
+                "d" : "neither endogamy nor exogamy",
+                "answer" : "a"
+            },
+        
+            {
+                "question" : "Among the Tujan and Kurumb common type of family prevailing is:",
+                "a" : "polyandry",
+                "b" : "polygamy",
+                "c" : "monogamy",
+                "d" : "none of the above",
+                "answer" : "a"
+            },    
+            
+            {
+                "question" : "An intelligent and educated temple priest has an importance in the village community. To what do you attribute his role and status?",
+                "a" : "Being an educated man, he is friend, philosopher and guide",
+                "b" : "Besides performing his priestly functions, he is astrologer, and conductor of the community prayer",
+                "c" : "He is the judge of good and bad",
+                "d" : " All of the above",
+                "answer" : "d"
+            },    
+            
+            {
+                "question" : "Mark out the incorrect statement-",
+                "a" : "Urbanites are socially poor in midst of plenty",
+                "b" : "Urban contacts are segmental",
+                "c" : "Urbanities come into primary contact with each other",
+                "d" : "Many urbanites live in social vacuum",
+                "answer" : "c"
+            },
+        
+            {
+                "question" : "________ is more rampant in a city life.",
+                "a" : "Social mobility",
+                "b" : "Migration",
+                "c" : "Religious grouping",
+                "d" : "Jajmani system",
+                "answer" : "a"
+            },
+        
+            {
+                "question" : "Who can be labelled as a historical sociologist?",
+                "a" : "Pareto",
+                "b" : "Karl Marx",
+                "c" : "Max Weber",
+                "d" : "Lewis Coscer",
+                "answer" : "c"
+            }
+        ]
+    },
+    {
+        "title": "generalscience",
+        "summary": "asljdadls fkjas dfklj asdfj asdl;fkjas lk;dfjsda;lfj sad;lf",
+        "quiz": [
+            {
+                "question" : "Consider the following differences between RBCs and WBCs: 1.While RBCs do not have nucleus, WBCs have nucleus in them2.Life span of RBCs is higher than that of WBCs. Which of the above statements is/are correct?",
+                "a" : "1 Only",
+                "b" : "2 Only",
+                "c" : "Both 1 & 2",
+                "d" : "Neither 1 nor 2",
+                "answer" : "c"
+            },
+        
+            {
+                "question" : "When the white light is incident on the refracting face of the prism: 1.red waves undergo least deviation 2.waves with longer wavelength deviate lesser 3.the phenomenon of differential deviation of rays is called dispersion Which among the above statements is / are correct?",
+                "a" : " Only 1",
+                "b" : "Only 1 & 2",
+                "c" : "Only 2 & 3",
+                "d" : "Only 1 & 3",
+                "answer" : "d"
+            },    
+            
+            {
+                "question" : "The phenomenon due to which animal sweat to reduce temperature and change electrolyte concentration is called:",
+                "a" : "Homeorhesis",
+                "b" : "Homeostasis",
+                "c" : "Apoptosis",
+                "d" : "Necrobiosis",
+                "answer" : "b"
+            },    
+            
+            {
+                "question" : "Which one of the following is NOT the feature of tribal religion?",
+                "a" : "magic plays big role in it",
+                "b" : "people have a full faith in supernatural power",
+                "c" : "there is no faith in animism",
+                "d" : "people have faith in animatism",
+                "answer" : "c"
+            },
+        
+            {
+                "question" : "Among the Bhil and Toda tribes common type of marriage is:",
+                "a" : "endogamy",
+                "b" : "exogamy",
+                "c" : "both endogamy and exogamy",
+                "d" : "neither endogamy nor exogamy",
+                "answer" : "a"
+            },
+        
+            {
+                "question" : "Among the Tujan and Kurumb common type of family prevailing is:",
+                "a" : "polyandry",
+                "b" : "polygamy",
+                "c" : "monogamy",
+                "d" : "none of the above",
+                "answer" : "a"
+            },    
+            
+            {
+                "question" : "An intelligent and educated temple priest has an importance in the village community. To what do you attribute his role and status?",
+                "a" : "Being an educated man, he is friend, philosopher and guide",
+                "b" : "Besides performing his priestly functions, he is astrologer, and conductor of the community prayer",
+                "c" : "He is the judge of good and bad",
+                "d" : " All of the above",
+                "answer" : "d"
+            },    
+            
+            {
+                "question" : "Mark out the incorrect statement-",
+                "a" : "Urbanites are socially poor in midst of plenty",
+                "b" : "Urban contacts are segmental",
+                "c" : "Urbanities come into primary contact with each other",
+                "d" : "Many urbanites live in social vacuum",
+                "answer" : "c"
+            },
+        
+            {
+                "question" : "________ is more rampant in a city life.",
+                "a" : "Social mobility",
+                "b" : "Migration",
+                "c" : "Religious grouping",
+                "d" : "Jajmani system",
+                "answer" : "a"
+            },
+        
+            {
+                "question" : "Who can be labelled as a historical sociologist?",
+                "a" : "Pareto",
+                "b" : "Karl Marx",
+                "c" : "Max Weber",
+                "d" : "Lewis Coscer",
+                "answer" : "c"
+            }
+        ]
+    }
+]

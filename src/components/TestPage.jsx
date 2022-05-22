@@ -1,42 +1,34 @@
+import axios from "axios";
+import { useEffect, useState } from "react";
+import { useHistory } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import TestCard from "./TestCard";
 function TestPage() {
+  const history = useHistory();
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    fetch("./questions.json")
+      .then((response) => {
+        // console.log(response.clone().json())
+        return response.json();
+      })
+      .then((data) => setData(data));
+  }, []);
+  console.log("data", data);
+
   return (
-    <div className="grid grid-cols-2 mx-auto gap-5 py-2">
-      <TestCard
-        title="Title 1"
-        summary="
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente ab ullam mollitia qui esse harum. 
-Lorem ipsum dolor "
-        numberOfQuestions="10"
-      />
-      <TestCard
-        title="Title 2"
-        summary="
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente ab ullam mollitia qui esse harum. 
-Lorem ipsum dolor "
-        numberOfQuestions="10"
-      />
-      <TestCard
-        title="Title 3"
-        summary="
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente ab ullam mollitia qui esse harum. 
-Lorem ipsum dolor "
-        numberOfQuestions="10"
-      />
-      <TestCard
-        title="Title 4"
-        summary="
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente ab ullam mollitia qui esse harum. 
-Lorem ipsum dolor "
-        numberOfQuestions="10"
-      />
-      <TestCard
-        title="Title 5"
-        summary="
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente ab ullam mollitia qui esse harum. 
-Lorem ipsum dolor "
-        numberOfQuestions="10"
-      />
+    <div className="grid grid-cols-1 md:grid-cols-2 mx-auto gap-5 py-2">
+      {data.map((item, index) => (
+        <div key={index}>
+          <TestCard
+            onClick={() => history.push(`/quiz/${index}`)}
+            title={item.title}
+            summary={item.summary}
+            numberOfQuestions={item.quiz.length}
+          />
+        </div>
+      ))}
     </div>
   );
 }

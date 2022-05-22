@@ -11,7 +11,7 @@ function Inputbox(props) {
           name={props.name}
           className={`min-w-min sm:ml-7 p-3 rounded-xl outline-none text-left bg-gray-100 text-sm ${props.className}`}
         />
-      <p>{props.errorMessage}</p>
+      <p className="text-xs text-red-600">{props.errorMessage}</p>
     </div>
   );
 }

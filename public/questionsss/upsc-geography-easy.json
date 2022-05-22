@@ -1,0 +1,93 @@
+[
+    {
+        "question" : "Which of the following countries is not larger than India in terms of geographical area?",
+        "a" : "Australia",
+        "b" : "Brazil",
+        "c" : "Canada",
+        "d" : "Indonesia",
+        "answer" : "d"
+    },
+
+    {
+        "question" : "What is the Length of Coast line of India including the cost line of Andaman and Nicobar Island?",
+        "a" : "5517 km",
+        "b" : "7517 km",
+        "c" : "6518 km",
+        "d" : "7218 km",
+        "answer" : "b"
+    },    
+    
+    {
+        "question" : "Which among the following state of India is best known for Saffron Cultivation?",
+        "a" : "Sikkim",
+        "b" : "Assam",
+        "c" : "Jammu & Kashmir",
+        "d" : "Meghalaya",
+        "answer" : "c"
+    },    
+    
+    {
+        "question" : "In which city of India, 90% of world’s small diamonds processed?",
+        "a" : "Baroda",
+        "b" : "Mumbai",
+        "c" : "Surat",
+        "d" : "Jaipur",
+        "answer" : "c"
+    },
+
+    {
+        "question" : "Which among the following is not correctly matched?",
+        "a" : "Ramakrishna Mission Beach /– Andhra Pradesh",
+        "b" : "Chandipur Beach /– Orissa",
+        "c" : "Golden Beach /– Tamil nadu",
+        "d" : "Marari Beach /– Goa",
+        "answer" : "d"
+    },
+
+    {
+        "question" : "Port Pipavav, which is the first private sector port in India, is located in which of the following states?",
+        "a" : "West Bengal",
+        "b" : "Maharashtra",
+        "c" : "Gujarat",
+        "d" : "Andhra Pradesh",
+        "answer" : "c"
+    },    
+    
+    {
+        "question" : "The Jhamarkotra mines of Rajasthan are best known for which among the following minerals?",
+        "a" : "Mica",
+        "b" : "Zinc",
+        "c" : "Rock Phosphate",
+        "d" : "Lime Stone",
+        "answer" : "c"
+    },    
+    
+    {
+        "question" : "Jarawas and Sentinelese tribes are found in which among the following state / Union Territory of India?",
+        "a" : "Andaman & Nicobar Islands",
+        "b" : "Madhya Pradesh",
+        "c" : "Lakshadweep",
+        "d" : "Arunachal Pradesh",
+        "answer" : "a"
+    },
+
+    {
+        "question" : "Arrange the following cities of India from west to east: 1.Bilaspur, 2.Ranchi, 3.Bhopal, 4.Jodhpur",
+        "a" : "4, 1, 2, 3",
+        "b" : "4, 3, 1, 2",
+        "c" : "3, 1, 2, 4",
+        "d" : "3, 4, 1, 2",
+        "answer" : "b"
+    },
+
+    {
+        "question" : "The evolution of the peninsular region is considered as the resultant of which of the following?",
+        "a" : "Geosyncline Evolution",
+        "b" : "Cenozoic folding",
+        "c" : "Platform Evolution",
+        "d" : "None of the above",
+        "answer" : "c"
+    }
+
+
+]

@@ -30,18 +30,25 @@ function Login() {
         onSubmit={(event) => {
           event.preventDefault();
           if (userDetails) {
-            userDetails.forEach((item, index) => {
+            let flag = false;
+            for (var i = 0; i < userDetails.length; ++i) {
               if (
-                item.emailAdd === initialEntry.emailAdd &&
-                item.password === initialEntry.password
+                userDetails[i].emailAdd === initialEntry.emailAdd &&
+                userDetails[i].password === initialEntry.password
               ) {
-                localStorage.setItem("loggedInUser", JSON.stringify(index));
-                window.location.href = '/dashboard'
-                // break;
-              } else {
-                setErrorWhileLogin("Oops! Could not find the user");
+                flag = true;
+                break;
               }
-            });
+            }
+            if(flag) {
+              localStorage.setItem("loggedInUser", JSON.stringify(i));
+              window.location.href = '/dashboard';
+            } else {
+              setErrorWhileLogin("Oops! Could not find the user");
+            }
+            // userDetails.forEach((item, index) => {
+              
+            // });
           } else {
             setErrorWhileLogin("Oops! Could not find the user");
           }

@@ -19,7 +19,7 @@ function TestCard(props) {
         </dl>
       </div>
       <hr className="mt-5 border-2 border-black border-dotted" />
-      <div className="pt-4 flex justify-between font-bold">
+      <div className="pt-4 flex justify-between font-bold" onClick={props.onClick}>
         <div className="flex">
           <div className="my-auto">
             <BiRightArrow fontSize={20} color="blue" />
