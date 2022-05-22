@@ -26,7 +26,7 @@ function Signup() {
   return (
     <div className="text-center text-gray-900 m-2 sm:m-25">
       <Title title="Sign Up" />
-      <Link to={"/login"}>Already have an account?</Link>
+      <Link to={"/login"} className="text-sm text-indigo-400 hover:underline">click here if already have an account!</Link>
       <form method="post" onSubmit={(e) => {
           e.preventDefault();
           console.log(initialEntry);

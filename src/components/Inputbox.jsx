@@ -9,7 +9,7 @@ function Inputbox(props) {
           type={props.type}
           placeholder={props.placeholder}
           name={props.name}
-          className={`min-w-min sm:ml-7 p-3 rounded-xl focus:border-blue-300 outline-none text-left bg-gray-100 ${props.className}`}
+          className={`min-w-min sm:ml-7 p-3 rounded-xl outline-none text-left bg-gray-100 text-sm ${props.className}`}
         />
       <p>{props.errorMessage}</p>
     </div>

@@ -26,7 +26,7 @@ function TestCard(props) {
           </div>
           <p className="ml-2 my-auto">{props.numberOfQuestions} Questions</p>
         </div>
-        <div className="flex cursor-pointer bg-red-500 text-white px-8 py-4 rounded-full">
+        <div className="flex cursor-pointer bg-orange-600 text-white px-8 py-4 rounded-full">
           <div className="my-auto">
             <AiOutlinePlayCircle fontSize={25} color="green" />
           </div>

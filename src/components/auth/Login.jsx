@@ -23,7 +23,7 @@ function Login() {
     <div className="text-gray-900 text-center">
       <Title title="Login" />
       <Link to="/signup">
-        <span>Create an account</span>
+        <span className="text-sm text-indigo-400 hover:underline">click here to create an account!</span>
       </Link>
       <form
         method="post"
@@ -39,11 +39,11 @@ function Login() {
                 window.location.href = '/dashboard'
                 // break;
               } else {
-                setErrorWhileLogin("Could not find the user");
+                setErrorWhileLogin("Oops! Could not find the user");
               }
             });
           } else {
-            setErrorWhileLogin("Could not find the user");
+            setErrorWhileLogin("Oops! Could not find the user");
           }
         }}
       >
