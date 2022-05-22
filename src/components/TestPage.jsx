@@ -1,7 +1,5 @@
-import axios from "axios";
 import { useEffect, useState } from "react";
 import { useHistory } from "react-router-dom";
-import { useParams } from "react-router-dom";
 import TestCard from "./TestCard";
 function TestPage() {
   const history = useHistory();
