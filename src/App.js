@@ -12,8 +12,8 @@ import Dashboard from "./components/Dashboard";
 function App() {
   return (
     <Router>
-      <div className="bg-gray-100 min-h-screen sm:p-20">
-        <div className="bg-white min-h-full rounded-xl">
+      <div className="bg-orange-100 h-screen p-5 md:p-10 lg:p-12">
+        <div className="bg-white h-full rounded-lg overflow-scroll overflow-x-hidden">
           <Switch>
             <Route exact path="/">
               <Redirect to={"/login"} />

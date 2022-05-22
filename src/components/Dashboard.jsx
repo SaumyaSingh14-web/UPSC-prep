@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { details } from "../constants/constant";
-import Button from "./auth/Button";
+//import { details } from "../constants/constant";
+import Button from "./Button";
 import TestPage from "./TestPage";
 
 function Dashboard() {
-  const currentUser = JSON.parse(localStorage.getItem("loggedInUser"));
-  const users = details;
+  //const currentUser = JSON.parse(localStorage.getItem("loggedInUser"));
+  //const users = details;
   return (
     <div>
       <div><TestPage/></div>

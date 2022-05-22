@@ -1,7 +1,7 @@
 import { React, useState } from "react";
-import Title from "./Title";
-import Inputbox from "./Inputbox";
-import Button from "./Button";
+import Title from "../Title";
+import Inputbox from "../Inputbox";
+import Button from "../Button";
 import { Link } from "react-router-dom";
 import { details } from "../../constants/constant";
 
