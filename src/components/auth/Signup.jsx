@@ -64,7 +64,7 @@ function Signup() {
         value={initialEntry.lastName}
         onChange={(e) => {
           setInitialEntry({ ...initialEntry, lastName: e.target.value });
-          if (initialEntry.lastName.length < 3) {
+          if (initialEntry.lastName.length < 2) {
             setInputErrors({
               ...inputErrors,
               lastName: "Last Name is invalid!",

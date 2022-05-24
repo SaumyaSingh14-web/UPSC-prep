@@ -102,7 +102,7 @@ function Login() {
         />
         <Button btn="Login" type="submit" className="max-w-max" />
       </form>
-      <p>{errorWhileLogin}</p>
+      <p className="text-2xl font-semibold text-red-700 mt-14">{errorWhileLogin}</p>
     </div>
   );
 }
