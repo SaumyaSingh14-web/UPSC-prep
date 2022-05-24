@@ -476,5 +476,102 @@
                 "answer" : "b"
             }
         ]
+    },
+    {
+        "title": "Economics",
+        "summary": "asljdadls fkjas dfklj asdfj asdl;fkjas lk;dfjsda;lfj sad;lf",
+        "quiz": [
+            {
+                "question" : "Which among the following parts of constitution of India, includes the concept of welfare states?",
+                "a" : "Preamble",
+                "b" : "Fundamental rights",
+                "c" : "Directive principles",
+                "d" : "Fourth Schedule",
+                "answer" : "c"
+            },
+        
+            {
+                "question" : "Which among the following articles speaks about impeachment of the President of India?",
+                "a" : "Article 60",
+                "b" : "Article 61",
+                "c" : "Article 62",
+                "d" : "Article 63",
+                "answer" : "b"
+            },    
+            
+            {
+                "question" : "Which among the following articles defines the Money Bill?",
+                "a" : "Article 110",
+                "b" : "Article 111",
+                "c" : "Article 112",
+                "d" : "Article 113",
+                "answer" : "a"
+            },    
+            
+            {
+                "question" : "The amendment of the constitution can be initiated in which of the following? Lok Sabha Rajya Sabha State Assemblies Select the correct option from the codes given below:",
+                "a" : "Only 1",
+                "b" : "Only 1 or 2",
+                "c" : "Only 1 or 3",
+                "d" : "1 or 2 or 3",
+                "answer" : "b"
+            },
+        
+            {
+                "question" : "Single citizenship in india has been taken from which country?",
+                "a" : "Britan",
+                "b" : "Canada",
+                "c" : "Both 1 & 2",
+                "d" : "USA",
+                "answer" : "c"
+            },
+        
+            {
+                "question" : "Introduction of provincial Autonomy is related to which of the following acts?",
+                "a" : "The Government of India Act, 1858",
+                "b" : "The Government of India Act, 1909",
+                "c" : "The Government of India Act, 1919",
+                "d" : "The Government of India Act, 1935",
+                "answer" : "d"
+            },    
+            
+            {
+                "question" : "Which among the following is a correct statement? ",
+                "a" : "USA /– Supremacy of the constitution /;Britain /– Supremacy of the Parliament",
+                "b" : "Britain /– Supremacy of the constitution /;USA /– Supremacy of the Parliament",
+                "c" : "Britain & USA /-Supremacy of the constitution",
+                "d" : "Britain & USA /-Supremacy of the Parliament",
+                "answer" : "a"
+            },    
+            
+            {
+                "question" : "Which among the following is a correct function of Public Accounts Committee?",
+                "a" : "It works under President of India and creates accounts for various ministries",
+                "b" : "It works under Comptroller and Auditor General of India and prepares accounts",
+                "c" : "It is a parliamentary committee which gives report on nonplan expenditures of the government",
+                "d" : "It is a parliamentary committee which scrutinizes the report of the Comptroller & Auditor General of India",
+                "answer" : "d"
+            },
+        
+            {
+                "question" : "Who among the following was the chairman of the Special Committee to examine the Draft Constitution of India ?",
+                "a" : "Dr. B R Ambedkar",
+                "b" : "Sir Alladi Krishnaswami Ayyer",
+                "c" : "Sardar Patel",
+                "d" : "Sardar Balvant Singh",
+                "answer" : "b"
+            },
+        
+            {
+                "question" : "Who among the following had voiced for a demand for Constituent Assembly based on adult Franchise?",
+                "a" : "K Kamraj",
+                "b" : "Dr. Rajendra Prasad",
+                "c" : "Sardar Patel",
+                "d" : "C Rajgopalachari",
+                "answer" : "d"
+            }
+        
+        
+        ]
     }
 ]
