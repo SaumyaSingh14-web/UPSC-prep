@@ -33,7 +33,7 @@ function QuizWindow() {
 
   return (
     <div>
-      <div className="text-3xl font-bold uppercase text-center my-10 text-red-600">
+      <div className="text-3xl font-bold uppercase text-center my-10 text-orange-600">
         {quizes?.title}
       </div>
       <form method="get" onSubmit={handleSubmit}>

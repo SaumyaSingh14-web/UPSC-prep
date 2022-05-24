@@ -1,7 +1,7 @@
 [
     {
         "title": "Geography",
-        "summary": "asljdadls fkjas dfklj asdfj asdl;fkjas lk;dfjsda;lfj sad;lf",
+        "summary": "Geography is the study of places and the relationships between people and their environments. Geographers explore both the physical properties of Earth's surface and the human societies spread across it.",
         "quiz": [
             {
                 "question" : "Which of the following countries is not larger than India in terms of geographical area?",
@@ -98,7 +98,7 @@
     },
     {
         "title": "History",
-        "summary": "asljdadls fkjas dfklj asdfj asdl;fkjas lk;dfjsda;lfj sad;lf",
+        "summary": "History is the study and the documentation of the past. It is an umbrella term comprising past events as well as the memory, discovery, collection, organization, presentation, and interpretation of these events.",
         "quiz": [
     
             {
@@ -194,7 +194,7 @@
     },
     {
         "title": "Sociology",
-        "summary": "asljdadls fkjas dfklj asdfj asdl;fkjas lk;dfjsda;lfj sad;lf",
+        "summary": "Sociology is the systematic and scientific study of society and social interaction.",
         "quiz": [
             {
                 "question" : "The Servants of India Society was initiated in –",
@@ -288,8 +288,8 @@
         ]
     },
     {
-        "title": "generalscience",
-        "summary": "asljdadls fkjas dfklj asdfj asdl;fkjas lk;dfjsda;lfj sad;lf",
+        "title": "General Science",
+        "summary": "General science or science is one of the most important channels of knowledge and plays a vital role in the preparation of competitive examinations. It consists of three subjects Physics, Chemistry and Biology",
         "quiz": [
             {
                 "question" : "Consider the following differences between RBCs and WBCs: 1.While RBCs do not have nucleus, WBCs have nucleus in them2.Life span of RBCs is higher than that of WBCs. Which of the above statements is/are correct?",
@@ -383,8 +383,8 @@
         ]
     },
     {
-        "title": "environmentalscience",
-        "summary": "asljdadls fkjas dfklj asdfj asdl;fkjas lk;dfjsda;lfj sad;lf",
+        "title": "Environmental Science",
+        "summary": "Environmental science is the study of patterns and processes in the natural world and their modification by human activity.",
         "quiz": [
             {
                 "question" : "Which of the following is / are correct differences between Paris Agreement and  Kyoto Protocol? Under the Paris Agreement emission reduction targets are not mandatory as in Kyoto Protocol Under the Paris Agreement, developed countries will not need to provide finance to the developing countries for emission reduction actions as well as adaptation Select the correct option from the codes given below:",  
@@ -479,7 +479,7 @@
     },
     {
         "title": "Economics",
-        "summary": "asljdadls fkjas dfklj asdfj asdl;fkjas lk;dfjsda;lfj sad;lf",
+        "summary": "Economics is a social science concerned with the production, distribution, and consumption of goods and services.",
         "quiz": [
             {
                 "question" : "Which among the following parts of constitution of India, includes the concept of welfare states?",

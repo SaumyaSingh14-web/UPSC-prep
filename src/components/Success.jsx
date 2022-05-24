@@ -6,7 +6,7 @@ function Success() {
   return (
     <div>
       <div className="text-center mt-6 text-lg font-bold">
-        You have secured <span className="text-red-500">{marks}/100</span> marks in previous quiz
+        You have secured <span className="text-orange-600">{marks}/100</span> marks in previous quiz
       </div>
     </div>
   );
