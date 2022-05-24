@@ -319,66 +319,161 @@
             },    
             
             {
-                "question" : "Which one of the following is NOT the feature of tribal religion?",
-                "a" : "magic plays big role in it",
-                "b" : "people have a full faith in supernatural power",
-                "c" : "there is no faith in animism",
-                "d" : "people have faith in animatism",
+                "question" : "Which among the following is not correctly matched?",
+                "a" : "Malleus /– Middle Ear Bon",
+                "b" : "Maxilla /– Cranial Bone",
+                "c" : "Lunate Carpal Bon",
+                "d" : "All are corrrect",
+                "answer" : "b"
+            },
+        
+            {
+                "question" : "A pollen tube is used in the transport of..?",
+                "a" : "Pollen Grains",
+                "b" : "Sperm Cells",
+                "c" : "Eggs",
+                "d" : "All of them",
+                "answer" : "b"
+            },
+        
+            {
+                "question" : "Which among the following diseases is not caused by a virus ?",
+                "a" : "Chickenpox",
+                "b" : "Hepatitis",
+                "c" : "Cholera",
+                "d" : "Dengue",
                 "answer" : "c"
-            },
-        
+            },    
+            
             {
-                "question" : "Among the Bhil and Toda tribes common type of marriage is:",
-                "a" : "endogamy",
-                "b" : "exogamy",
-                "c" : "both endogamy and exogamy",
-                "d" : "neither endogamy nor exogamy",
-                "answer" : "a"
-            },
-        
-            {
-                "question" : "Among the Tujan and Kurumb common type of family prevailing is:",
-                "a" : "polyandry",
-                "b" : "polygamy",
-                "c" : "monogamy",
-                "d" : "none of the above",
+                "question" : "Which of the following are the most and the least electronegative elements in the periodic table?",
+                "a" : "Fluorine and Caesium",
+                "b" : "Hydrogen and Helium",
+                "c" : "Carbon and Oxygen",
+                "d" : "Chlorine and Fluorine",
                 "answer" : "a"
             },    
             
             {
-                "question" : "An intelligent and educated temple priest has an importance in the village community. To what do you attribute his role and status?",
-                "a" : "Being an educated man, he is friend, philosopher and guide",
-                "b" : "Besides performing his priestly functions, he is astrologer, and conductor of the community prayer",
-                "c" : "He is the judge of good and bad",
-                "d" : " All of the above",
+                "question" : "Hodophobia is the fear of which of the following?",
+                "a" : "Sleeping",
+                "b" : "Travel",
+                "c" : "Drugs",
+                "d" : "Cattle",
+                "answer" : "b"
+            },
+        
+            {
+                "question" : "Which among the following indicates Vitamin B12?",
+                "a" : "Niacin",
+                "b" : "Pyridoxine",
+                "c" : "Cobalamine",
+                "d" : "Thiamine",
+                "answer" : "c"
+            },
+        
+            {
+                "question" : "Which among the following is the correct meaning of Phyllotaxy?",
+                "a" : " Classification of plants as per the leaves structure",
+                "b" : "The manner of arrangement of leaves in stem or branch",
+                "c" : "The manner the leaves fall from the branches",
+                "d" : "The anatomy of leaves in angiosperms",
+                "answer" : "b"
+            }
+        ]
+    },
+    {
+        "title": "environmentalscience",
+        "summary": "asljdadls fkjas dfklj asdfj asdl;fkjas lk;dfjsda;lfj sad;lf",
+        "quiz": [
+            {
+                "question" : "Which of the following is / are correct differences between Paris Agreement and  Kyoto Protocol? Under the Paris Agreement emission reduction targets are not mandatory as in Kyoto Protocol Under the Paris Agreement, developed countries will not need to provide finance to the developing countries for emission reduction actions as well as adaptation Select the correct option from the codes given below:",  
+                "a" : "Only 1",
+                "b" : "Only 2",
+                "c" : "All of the above",
+                "d" : "None of the above",
+                "answer" : "a"
+            },
+        
+            {
+                "question" : "Consider the following differences between tropical rainforest and temperate rainforests: Rainfall is higher in temperate rainforests in comparison of tropical rainforests Biodiversity is higher in temperate rainforests in comparison to tropical rainforests Which of the above statements is/are correct?",
+                "a" : "Only 1",
+                "b" : "Only 2",
+                "c" : "All of the above",
+                "d" : "None of the above",
+                "answer" : "a"
+            },    
+            
+            {
+                "question" : "Recently, the Terai Arc Landscape was making news in context with the ecosystems-livelihoods linkages studies.  The Terai Arc Landscape is spread across which of the following states? Uttarkhand Uttar Pradesh Bihar Himachal Pradesh Select the correct answer from the codes given below:",
+                "a" : "Only 1 & 2",
+                "b" : "Only 1, 2 & 3",
+                "c" : "Only 2, 3 & 4",
+                "d" : "1, 2, 3 & 4",
+                "answer" : "b"
+            },    
+            
+            {
+                "question" : "The Pushpagiri Wildlife Sanctuary (PWS) is located in which state?",
+                "a" : "Kerala",
+                "b" : "Karnataka",
+                "c" : "Andhra Pradesh",
+                "d" : "Goa",
+                "answer" : "b"
+            },
+        
+            {
+                "question" : "Which among the following multilateral convention seeks to protect the human health and environment from Persistant Organic Pollutants (POPs)?",
+                "a" : "Bonn Convention",
+                "b" : "Stockholm Convention",
+                "c" : "bRotterdam Convention",
+                "d" : "Basel Convention",
+                "answer" : "b"
+            },
+        
+            {
+                "question" : "The relationship between water fern Azolla and cyanobacterium Anabaena is :",
+                "a" : "Symbiotic",
+                "b" : "Mutualistic",
+                "c" : "Commensalism",
+                "d" : "Proto-Cooperation",
+                "answer" : "a"
+            },    
+            
+            {
+                "question" : "The largest number of Tiger Reserves are located in :",
+                "a" : "Karnataka",
+                "b" : "Andhra Pradesh",
+                "c" : "Madhya Pradesh",
+                "d" : "West Bengal",
+                "answer" : "c"
+            },    
+            
+            {
+                "question" : "In which of the following forests of India, world’s first tiger census was carried out in 1932 ?",
+                "a" : "Kaziranga Forests",
+                "b" : "Sariska Forests",
+                "c" : "Ranthambore Forests",
+                "d" : "Palamu Forests",
                 "answer" : "d"
-            },    
-            
-            {
-                "question" : "Mark out the incorrect statement-",
-                "a" : "Urbanites are socially poor in midst of plenty",
-                "b" : "Urban contacts are segmental",
-                "c" : "Urbanities come into primary contact with each other",
-                "d" : "Many urbanites live in social vacuum",
-                "answer" : "c"
             },
         
             {
-                "question" : "________ is more rampant in a city life.",
-                "a" : "Social mobility",
-                "b" : "Migration",
-                "c" : "Religious grouping",
-                "d" : "Jajmani system",
-                "answer" : "a"
+                "question" : "Dodo or Raphus cucullatus, a flightless bird which got extinct in the 17th century was endemic to which among the following countries?",
+                "a" : "Sri Lanka",
+                "b" : "Mauritius",
+                "c" : "Maldives",
+                "d" : "India",
+                "answer" : "b"
             },
         
             {
-                "question" : "Who can be labelled as a historical sociologist?",
-                "a" : "Pareto",
-                "b" : "Karl Marx",
-                "c" : "Max Weber",
-                "d" : "Lewis Coscer",
-                "answer" : "c"
+                "question" : "Every year, a monthlong ecologically important campaign/festival is held during which certain communities/ tribes plant saplings of fruit-bearing trees. Which of the following are such communities/ tribes?",
+                "a" : "Bhutia and Lepcha",
+                "b" : "Gond and Korku",
+                "c" : "lrula and Toda",
+                "d" : "Sahariya and Agariya",
+                "answer" : "b"
             }
         ]
     }

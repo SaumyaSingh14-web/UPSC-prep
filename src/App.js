@@ -10,6 +10,7 @@ import Login from "./components/auth/Login";
 import Dashboard from "./components/Dashboard";
 import { currentUserId } from "./constants/constant";
 import QuizWindow from "./components/QuizWindow";
+import Success from "./components/Success";
 
 // restrict routing
 
@@ -41,6 +42,10 @@ function App() {
             <Route exact path="/quiz/:id">
               {userId ? <QuizWindow /> : <Redirect to="/login" />}
             </Route>
+            <Route exact path="/success">
+              {userId ? <Success /> : <Redirect to="/login" />}
+            </Route>
+            <Route path="/">Page Not Found!!</Route>
           </Switch>
         </div>
       </div>

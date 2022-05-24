@@ -35,6 +35,7 @@ function Signup() {
           } else {
             localStorage.setItem("details", JSON.stringify([initialEntry]));
           }
+          window.location.href = "/login";
         }}>
       <Inputbox
         errorMessage={inputErrors.firstName}

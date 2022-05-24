@@ -11,7 +11,10 @@ function TestPage() {
         // console.log(response.clone().json())
         return response.json();
       })
-      .then((data) => setData(data));
+      .then((data) => {
+        setData(data);
+        localStorage.setItem("quiz", JSON.stringify(data));
+      });
   }, []);
   console.log("data", data);
 
@@ -20,7 +23,11 @@ function TestPage() {
       {data.map((item, index) => (
         <div key={index}>
           <TestCard
-            onClick={() => history.push(`/quiz/${index}`)}
+            onClick={() => {
+              if (window.confirm(`We Are Starting Quiz: ${item.title}`)) {
+                history.push(`/quiz/${index}`);
+              }
+            }}
             title={item.title}
             summary={item.summary}
             numberOfQuestions={item.quiz.length}
