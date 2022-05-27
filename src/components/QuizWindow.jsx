@@ -15,20 +15,22 @@ function QuizWindow() {
     for (var i = 0; i < quizes.quiz.length; ++i) {
       const selectedByUser = option[i];
       const actualAnswer = quizes.quiz[i][quizes.quiz[i].answer];
-      console.log(
-        "selectedByUser",
-        selectedByUser,
-        "actualAnswer",
-        actualAnswer,
-        "T/F",
-        selectedByUser === actualAnswer
-      );
+      // console.log(
+      //   "selectedByUser",
+      //   selectedByUser,
+      //   "actualAnswer",
+      //   actualAnswer,
+      //   "T/F",
+      //   selectedByUser === actualAnswer
+      // );
       if (selectedByUser === actualAnswer) {
         marks += 10;
       }
     }
-    localStorage.setItem("marksObtained", marks);
-    window.location.href = "/success";
+    if (window.confirm("Are you sure to submit?")) {
+      localStorage.setItem("marksObtained", marks);
+      window.location.href = "/success";
+    }
   };
 
   return (
@@ -103,12 +105,6 @@ function QuizWindow() {
           <Button
             btn="submit"
             className="fixed bottom-5 right-16 md:bottom-16 md:right-20"
-            // onClick={async (event) => {
-            //   await handleSubmit(event);
-            //   alert(`Marks obtained: ${marks}`);
-            //   console.log("marks", marks);
-            //   window.location.reload();
-            // }}
           />
         </div>
       </form>

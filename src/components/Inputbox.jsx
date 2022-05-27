@@ -5,6 +5,7 @@ function Inputbox(props) {
       {props.inputBox}
         <label className="font-bold">{props.label}</label>
         <input
+        autoComplete="off"
         onChange={props.onChange}
           type={props.type}
           placeholder={props.placeholder}
